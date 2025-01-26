@@ -1,0 +1,19 @@
+{
+  "name": "dc34eb0f-df00-4633-8091-1bd8a96dde5d",
+  "playbookInput": {
+    "precedingConversationSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "playbookOutput": {
+    "executionSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "hola",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "undetected"
+}

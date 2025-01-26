@@ -1,0 +1,19 @@
+{
+  "name": "f2c63e1b-4a74-4554-b55c-76496790c561",
+  "playbookInput": {
+    "precedingConversationSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "playbookOutput": {
+    "executionSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "helloworld",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "undetected"
+}

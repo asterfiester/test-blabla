@@ -1,0 +1,23 @@
+{
+  "name": "809404e5-327e-41d9-b012-51c1b6de6219",
+  "displayName": "mainstopers",
+  "goal": "Start Page\n  - Transition route to \"Get Products\" page\n\nGet Products Page\n  - Trigger: \"find_products\" intent\n  - Action: OpenAPI call (GET /products)\n  - Action: Set parameter (product_names = $response.body.products[*].name)\n  - Condition: If product_names is not empty\n      - Response: \"I found the following products: $product_names\"\n  - Condition: Else\n      - Response: \"No products found.\" ",
+  "tokenCount": 210,
+  "referencedTools": [ "products-call" ],
+  "instruction": {
+    "steps": [ {
+      "text": "Greet the users, then ask how you can help them today."
+    }, {
+      "text": "Summarize the user's request and ask them to confirm that you understood correctly."
+    }, {
+      "text": "If necessary, seek clarifying details."
+    }, {
+      "text": "Use ${TOOL:products-call} to help the user with their task."
+    }, {
+      "text": "Thank the user for their business and say goodbye."
+    } ]
+  },
+  "codeBlock": {
+  
+  }
+}

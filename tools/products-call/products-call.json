@@ -1,0 +1,12 @@
+{
+  "name": "e483e69a-3d12-4824-acf6-5a3a17a3de0b",
+  "displayName": "products-call",
+  "openApiSpec": {
+    "authentication": {
+      "serviceAgentAuthConfig": {
+        "serviceAgentAuth": "ID_TOKEN"
+      }
+    }
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

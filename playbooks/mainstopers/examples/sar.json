@@ -1,0 +1,19 @@
+{
+  "name": "dd9b677a-9209-4b0e-8550-c645cc5d8c94",
+  "playbookInput": {
+    "precedingConversationSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "playbookOutput": {
+    "executionSummary": "hi",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "sar",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "undetected"
+}

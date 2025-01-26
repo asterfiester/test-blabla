@@ -1,0 +1,12 @@
+{
+  "name": "c0043d73-b663-4b0d-9372-8adb7c3c6d12",
+  "playbookInput": {
+    "precedingConversationSummary": "- Greet the users, then ask how you can help them today.\n- Summarize the user's request and ask them to confirm that you understood correctly.\n- If necessary, seek clarifying details.\n- Use ${TOOL:products-call} to help the user with their task.\n- Thank the user for their business and say goodbye.",
+    "actionParameters": {
+    
+    }
+  },
+  "displayName": "mainst",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "undetected"
+}

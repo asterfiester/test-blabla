@@ -1,0 +1,46 @@
+{
+  "name": "4591aec1-fa76-4535-8f04-28c6e9a6df02",
+  "displayName": "test",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "hi"
+        }
+      }
+    },
+    "virtualAgentOutput": {
+    
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "search products"
+        }
+      }
+    },
+    "virtualAgentOutput": {
+    
+    }
+  }, {
+    "userInput": {
+      "input": {
+        "text": {
+          "text": "t shirts"
+        }
+      }
+    },
+    "virtualAgentOutput": {
+    
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1737188415,
+    "nanos": 911516000
+  },
+  "testConfig": {
+    "playbookVersion": "projects/levelup-row/locations/us-central1/agents/1f4c7fb3-3b80-419d-8037-2788a4cbaeaf/playbooks/809404e5-327e-41d9-b012-51c1b6de6219/versions/0"
+  },
+  "languageCode": "en"
+}

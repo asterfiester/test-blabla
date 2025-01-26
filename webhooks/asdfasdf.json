@@ -1,0 +1,20 @@
+{
+  "name": "7e9c55d4-3d3b-492c-ada9-bc53eeccb591",
+  "displayName": "asdfasdf",
+  "genericWebService": {
+    "uri": "https://bing.com",
+    "username": "test",
+    "password": "fester",
+    "webhookType": "STANDARD",
+    "oauthConfig": {
+      "clientId": "asdfasdf",
+      "clientSecret": "asdfasdfasdf",
+      "tokenEndpoint": "https://bing.com",
+      "scopes": [ "tesaster" ]
+    },
+    "serviceAgentAuth": "ID_TOKEN"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}
